@@ -24,6 +24,6 @@ The goal of the user is to select those words in the list that will carry him / 
 
 ## Compile
 
-gcc -Wall gameC.c -o gameC
-./gameC (word length) (number of attempts) words.txt
+- gcc -Wall gameC.c -o gameC
+- ./gameC (word length) (number of attempts) words.txt
 
