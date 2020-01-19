@@ -3,7 +3,7 @@
 ## Game
 This task refers to a word game, in which a user attempts to find the final word through a process through a number of steps.
 
-##Target
+## Target
 The goal of the user is to select those words in the list that will carry him / her to the final word through a specified number of attempts, which was originally defined by the user.
 
 Specifically, when entering the game, the user has the option to choose the length of the word to be played and the number of attempts to find the final word.
