@@ -18,11 +18,10 @@ The goal of the user is to select those words in the list that will carry him / 
 
 - The following is a list of words that differ by letter from the original word. As the user selects a keyword, the system refreshes the list in the same way.
 
-The word file contains a large database of words of various lengths
+- The words.txt contains a large database of words of various lengths
 
+- The system displays all error messages when the user gives incorrect values
 
+## Compile
 
-
-Finally, the system displays all error messages when the user gives incorrect values
-
-The compilation is done
+gcc -Wall ergasia.c -o ergasia
