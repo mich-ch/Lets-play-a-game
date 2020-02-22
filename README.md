@@ -23,7 +23,8 @@ The goal of the user is to select those words in the list that will carry him / 
 - The system displays all error messages when the user gives incorrect values
 
 ## Compile
-
+```
 - gcc -Wall gameC.c -o gameC
 - ./gameC (word length) (number of attempts) words.txt
+```
 
